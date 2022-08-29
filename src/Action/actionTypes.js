@@ -1,0 +1,9 @@
+export const ADD_USER = 'ADD_USER';
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const ADD_BOOK = 'ADD_BOOK';
+export const EDIT_BOOK = 'EDIT_BOOK';
+export const DELETE_BOOK = 'DELET_BOOK';
+export const ASSIGN_BOOK = 'ASSIGN_BOOK';
+export const ASSIGN_EDIT = 'ASSIGN_EDIT';
+export const ASSIGN_RETURN = 'ASSIGN_RETURN';
